@@ -21,7 +21,6 @@ List of all open-source imaging libraries and their strengths and weaknesses.
 | [Adobe Generic Image Library](http://www.boost.org/doc/libs/1_54_0/libs/gil/doc/index.html) | [Boost Software License](http://en.wikipedia.org/wiki/Boost_Software_License)
 | [ExactImage](http://www.exactcode.com/site/open_source/exactimage/) | GPL 2
 | [ImLib2](http://docs.enlightenment.org/api/imlib2/html/) | [Unclear](http://www.linuxfromscratch.org/blfs/view/svn/general/imlib2.html)
-
 | [Marvin](http://marvinproject.sourceforge.net/en/index.html) | LGPL | Java
 | [Animal](http://sourceforge.net/projects/animal/) | GPL | C 
 | [Gandalf](http://gandalf-library.sourceforge.net/) | LGPL | C
@@ -32,6 +31,11 @@ List of all open-source imaging libraries and their strengths and weaknesses.
 
 http://stackoverflow.com/questions/11816571/light-weight-c-image-library
 
+
+## Exisitng comparisons
+
+http://www.vips.ecs.soton.ac.uk/index.php?title=Speed_and_Memory_Use
+http://randomfoo.net/2013/02/24/performance-comparison-of-image-libraries-revisited
 http://leocharre.com/articles/faster-image-resizing-in-linux/
 
 
@@ -39,5 +43,6 @@ http://leocharre.com/articles/faster-image-resizing-in-linux/
 
 ## Windows APIs
 
+[Windows Imaging Components](http://en.wikipedia.org/wiki/Windows_Imaging_Component)
 [StrechDIBits](http://msdn.microsoft.com/en-us/library/windows/desktop/dd145121(v=vs.85).aspx) 
 [DrawDIB](http://msdn.microsoft.com/en-us/library/ms704990%28VS.85%29.aspx)
