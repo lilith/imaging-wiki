@@ -1,7 +1,18 @@
-imaging-wiki
-============
+# OSS Imaging Libraries
 
 List of all open-source imaging libraries and their strengths and weaknesses.
+
+We're looking for a cross-platform library suitable for on-demand, server-side image processing. It should have the following attributes:
+
+* Free-threaded (No shared graphics thread)
+* Multi-tenanting-enabled (Multiple instances per process)
+* Fast image decoding, encoding, and scaling
+* No memory leaks whatsoever
+* Low RAM use
+* Fast startup times
+* Fast per-image processing times
+* Secure
+* Permissive license
 
 | Library | License | Platforms | Language | 
 | --- | --- | --- | ---
@@ -10,6 +21,7 @@ List of all open-source imaging libraries and their strengths and weaknesses.
 | [Libvips](http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips) | LGPL | C++
 | [Pixman](http://pixman.org/) | MIT | all | C
 | [CImg](http://cimg.sourceforge.net/) | CeCILL-C 
+| [CxImage](http://www.xdp.it/cximage.htm) | zlib 
 | [Leptonica](https://code.google.com/p/leptonica/) | Apache
 | [OpenCV](http://opencv.org/) | BSD
 | [DevIL](http://openil.sourceforge.net/) | LGPL
@@ -25,7 +37,7 @@ List of all open-source imaging libraries and their strengths and weaknesses.
 | [Animal](http://sourceforge.net/projects/animal/) | GPL | C 
 | [Gandalf](http://gandalf-library.sourceforge.net/) | LGPL | C
 | [IM](http://www.tecgraf.puc-rio.br/im/) | MIT | C++ 
-
+| [PIL](https://github.com/python-imaging/Pillow) | BSD-style | C/Python
 
 [List of imaging libraries with lisp bindings](http://www.cliki.net/graphics%20library)
 
