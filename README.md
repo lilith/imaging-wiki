@@ -27,7 +27,7 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [DevIL](http://openil.sourceforge.net/) | LGPL
 | [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C
 | [PIL](http://www.pythonware.com/products/pil/) | [Similar to MIT/BSD](http://www.pythonware.com/products/pil/license.htm)
-| [ImageMagick](http://www.imagemagick.org/script/index.php) | Apache
+| [Magick++](http://www.imagemagick.org/Magick++/?ImageMagick=euqj79qcd73925ive9hf8sme42) as a part of [ImageMagick](http://www.imagemagick.org/script/index.php) | Apache
 | [FreeImage](http://freeimage.sourceforge.net/) | GPL 2/3 OR [FIPL](http://freeimage.sourceforge.net/freeimage-license.txt) | C
 | [SDL_Image](http://www.libsdl.org/projects/SDL_image/) | [zlib license](http://en.wikipedia.org/wiki/Zlib_License) 
 | [Adobe Generic Image Library](http://www.boost.org/doc/libs/1_54_0/libs/gil/doc/index.html) | [Boost Software License](http://en.wikipedia.org/wiki/Boost_Software_License)
@@ -39,10 +39,17 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [IM](http://www.tecgraf.puc-rio.br/im/) | MIT | C++ 
 | [PIL](https://github.com/python-imaging/Pillow) | BSD-style | C/Python
 
+
 [List of imaging libraries with lisp bindings](http://www.cliki.net/graphics%20library)
 
 http://stackoverflow.com/questions/11816571/light-weight-c-image-library
 
+## Imaging/graphics libraries that don't offer significant image scaling abilities
+
+| Library | License | Platforms | Language | 
+| --- | --- | --- | ---
+| [ccv](http://libccv.org/) | MIT | C++ | 
+| [GDAL](http://www.gdal.org/) | MIT | ? | 
 
 ## Exisitng comparisons
 
