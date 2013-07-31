@@ -14,23 +14,23 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 * Secure
 * Permissive license
 
-| Library | License | Platforms | Language | 
+| Library | License | Language | Promising? |
 | --- | --- | --- | ---
-| [Skia](https://code.google.com/p/skia/) | New BSD | C++
-| [Cairo](http://cairographics.org/) | LGPL 2.1 or MPL 1.1
-| [Libvips](http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips) | LGPL | C++
-| [Pixman](http://pixman.org/) | MIT | all | C
+| [Skia](https://code.google.com/p/skia/) | New BSD | C++ | Yes
+| [Cairo](http://cairographics.org/) | LGPL 2.1 or MPL 1.1 | Yes
+| [Libvips](http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips) | LGPL | C++ | yes
+| [Pixman](http://pixman.org/) | MIT  | C | Yes 
 | [CImg](http://cimg.sourceforge.net/) | CeCILL-C 
 | [CxImage](http://www.xdp.it/cximage.htm) | zlib 
-| [Leptonica](https://code.google.com/p/leptonica/) | Apache
+| [Leptonica](https://code.google.com/p/leptonica/) | Apache | Yes
 | [OpenCV](http://opencv.org/) | BSD
 | [DevIL](http://openil.sourceforge.net/) | LGPL
-| [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C
+| [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C | ? 
 | [PIL](http://www.pythonware.com/products/pil/) | [Similar to MIT/BSD](http://www.pythonware.com/products/pil/license.htm)
 | [Magick++](http://www.imagemagick.org/Magick++/?ImageMagick=euqj79qcd73925ive9hf8sme42) as a part of [ImageMagick](http://www.imagemagick.org/script/index.php) | Apache
 | [FreeImage](http://freeimage.sourceforge.net/) | GPL 2/3 OR [FIPL](http://freeimage.sourceforge.net/freeimage-license.txt) | C
 | [SDL_Image](http://www.libsdl.org/projects/SDL_image/) | [zlib license](http://en.wikipedia.org/wiki/Zlib_License) 
-| [Adobe Generic Image Library](http://www.boost.org/doc/libs/1_54_0/libs/gil/doc/index.html) | [Boost Software License](http://en.wikipedia.org/wiki/Boost_Software_License)
+| [Adobe Generic Image Library](http://www.boost.org/doc/libs/1_54_0/libs/gil/doc/index.html) | [Boost Software License](http://en.wikipedia.org/wiki/Boost_Software_License) | C++ | Yes
 | [ExactImage](http://www.exactcode.com/site/open_source/exactimage/) | GPL 2
 | [ImLib2](http://docs.enlightenment.org/api/imlib2/html/) | [Unclear](http://www.linuxfromscratch.org/blfs/view/svn/general/imlib2.html)
 | [Marvin](http://marvinproject.sourceforge.net/en/index.html) | LGPL | Java
