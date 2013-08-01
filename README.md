@@ -30,7 +30,7 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [Magick++](http://www.imagemagick.org/Magick++/?ImageMagick=euqj79qcd73925ive9hf8sme42) as a part of [ImageMagick](http://www.imagemagick.org/script/index.php) | Apache
 | [FreeImage](http://freeimage.sourceforge.net/) | GPL 2/3 OR [FIPL](http://freeimage.sourceforge.net/freeimage-license.txt) | C
 | [SDL_Image](http://www.libsdl.org/projects/SDL_image/) | [zlib license](http://en.wikipedia.org/wiki/Zlib_License) 
-| [Adobe Generic Image Library](http://www.boost.org/doc/libs/1_54_0/libs/gil/doc/index.html) | [Boost Software License](http://en.wikipedia.org/wiki/Boost_Software_License) | C++ | Yes
+| [Adobe Generic Image Library](http://www.boost.org/doc/libs/1_54_0/libs/gil/doc/index.html) | [Boost Software License](http://en.wikipedia.org/wiki/Boost_Software_License) | C++ | No | Entirely C++ templates; part of Boost; no actual imaging algorithms.
 | [ExactImage](http://www.exactcode.com/site/open_source/exactimage/) | GPL 2
 | [ImLib2](http://docs.enlightenment.org/api/imlib2/html/) | [Unclear](http://www.linuxfromscratch.org/blfs/view/svn/general/imlib2.html)
 | [Marvin](http://marvinproject.sourceforge.net/en/index.html) | LGPL | Java
