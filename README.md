@@ -15,9 +15,9 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 * Permissive license
 
 | Library | License | Language | Promising? | Comments |
-| --- | --- | --- | ---
-| [Skia](https://code.google.com/p/skia/) | New BSD | C++ | Yes
-| [Cairo](http://cairographics.org/) | LGPL 2.1 or MPL 1.1 | Yes
+| --- | --- | --- | --- | ---
+| [Skia](https://code.google.com/p/skia/) | New BSD | C++ | Yes |
+| [Cairo](http://cairographics.org/) | LGPL 2.1 or MPL 1.1 | Yes |
 | [Libvips](http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips) | LGPL | C++ | yes
 | [Pixman](http://pixman.org/) | MIT  | C | Yes 
 | [CImg](http://cimg.sourceforge.net/) | CeCILL-C 
