@@ -44,6 +44,11 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 
 http://stackoverflow.com/questions/11816571/light-weight-c-image-library
 
+
+## Scaling-only resources
+
+https://code.google.com/p/imageresampler/
+
 ## Imaging/graphics libraries that don't offer significant image scaling abilities
 
 | Library | License | Platforms | Language | 
