@@ -21,9 +21,10 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [Libvips](http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips) | LGPL | C++ | yes
 | [Pixman](http://pixman.org/) | MIT  | C | Yes 
 | [CImg](http://cimg.sourceforge.net/) | CeCILL-C 
-| [CxImage](http://www.xdp.it/cximage.htm) | zlib 
+| [CxImage](http://www.xdp.it/cximage.htm) | zlib | C++
 | [Leptonica](https://code.google.com/p/leptonica/) | Apache | Yes
-| [OpenCV](http://opencv.org/) | BSD
+| [OpenCV](http://opencv.org/) | BSD | C++ 
+| [OpenCV-Ruby](https://github.com/ruby-opencv/ruby-opencv) | BSD | 
 | [DevIL](http://openil.sourceforge.net/) | LGPL
 | [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C | yes | Very fast resizing; well-written, simple C code
 | [PIL](http://www.pythonware.com/products/pil/) | [Similar to MIT/BSD](http://www.pythonware.com/products/pil/license.htm)
@@ -71,3 +72,11 @@ http://leocharre.com/articles/faster-image-resizing-in-linux/
 [Windows Imaging Components](http://en.wikipedia.org/wiki/Windows_Imaging_Component)
 [StrechDIBits](http://msdn.microsoft.com/en-us/library/windows/desktop/dd145121(v=vs.85).aspx) 
 [DrawDIB](http://msdn.microsoft.com/en-us/library/ms704990%28VS.85%29.aspx)
+
+## Image resizing and transformation reading
+
+* http://msn.iecs.fcu.edu.tw/report/data/ori_paper/2005-9-29/A%20fast%20edge-oriented%20algorithm%20for%20image%20interpolation.pdf
+* http://gmic.sourceforge.net/gimp.shtml
+* http://en.wikipedia.org/wiki/2xSaI#2.C3.97SaI
+* http://www.compuphase.com/graphic/scale.htm
+* 
