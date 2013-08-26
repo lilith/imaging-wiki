@@ -38,6 +38,7 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [Gandalf](http://gandalf-library.sourceforge.net/) | LGPL | C
 | [IM](http://www.tecgraf.puc-rio.br/im/) | MIT | C++ 
 | [PIL](https://github.com/python-imaging/Pillow) | BSD-style | C/Python
+| [GMIC](http://gmic.sourceforge.net/) | [CeCILL2](http://www.cecill.info/licences/Licence_CeCILL_V2-en.html) | C
 
 
 [List of imaging libraries with lisp bindings](http://www.cliki.net/graphics%20library)
