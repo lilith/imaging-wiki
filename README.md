@@ -6,7 +6,8 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 
 * Free-threaded (No shared graphics thread)
 * Multi-tenanting-enabled (Multiple instances per process)
-* Fast image decoding, encoding, and scaling
+* Fast hq image decoding, encoding, and scaling
+* At least accurate bicubic scaling must be implemented. Bicubic smoother & lanczos preferred.
 * No memory leaks whatsoever
 * Low RAM use
 * Fast startup times
@@ -16,9 +17,10 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 
 | Library | License | Language | Promising? | Comments |
 | --- | --- | --- | --- | ---
-| [Skia](https://code.google.com/p/skia/) | New BSD | C++ | Yes |
+| [Skia](https://code.google.com/p/skia/) [image_operations.cc](http://src.chromium.org/svn/trunk/src/skia/ext/image_operations.cc) | New BSD | C++ | Yes |
 | [Cairo](http://cairographics.org/) | LGPL 2.1 or MPL 1.1 | Yes |
 | [Libvips](http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips) | LGPL | C++ | yes
+| [OpenImageIO](http://openimageio.org) [Github](https://github.com/OpenImageIO/oiio) | BSD | C++ | Yes - very active
 | [Pixman](http://pixman.org/) | MIT  | C | Yes 
 | [CImg](http://cimg.sourceforge.net/) | CeCILL-C 
 | [CxImage](http://www.xdp.it/cximage.htm) | zlib | C++
@@ -47,9 +49,31 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 http://stackoverflow.com/questions/11816571/light-weight-c-image-library
 
 
+## Optimization resources
+
+https://github.com/rflynn/imgmin
+
+[Halide, a language for optimized image processing](http://halide-lang.org/) - **Very promising!**
+
+## Image servers
+
+https://github.com/buaazp/zimg ImageMagick-based, async
+https://github.com/kristopolous/apophnia ImageMagick-based
+
+https://github.com/beetlebugorg/mod_dims ImageMagick-based 
+
+https://github.com/3078825/ngx_image_thumb LibGD based
+
+https://github.com/hudora/huImages PIL based
+
 ## Scaling-only resources
 
 https://code.google.com/p/imageresampler/
+
+[github/jrmuizel/image-scaling: Porting Skia scaling to Emscripten](https://github.com/jrmuizel/image-scaling)
+
+https://code.google.com/p/java-image-scaling/
+
 
 ## Imaging/graphics libraries that don't offer significant image scaling abilities
 
