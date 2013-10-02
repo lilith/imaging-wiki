@@ -100,6 +100,8 @@ https://code.google.com/p/java-image-scaling/
 
 https://github.com/tmiddelkoop/ImageResize
 
+https://github.com/jrmuizel/pixman-scaler
+
 
 ## Imaging/graphics libraries that don't offer significant image scaling abilities
 
@@ -118,8 +120,9 @@ http://leocharre.com/articles/faster-image-resizing-in-linux/
 
 MathMap - https://github.com/schani/mathmap
 
-LibVips - http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips
+Vips - http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips
 
+https://code.google.com/p/imagestack/
 
 ## iOS specific
 
