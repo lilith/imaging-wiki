@@ -43,6 +43,9 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [PIL](https://github.com/python-imaging/Pillow) | BSD-style | C/Python
 | [GMIC](http://gmic.sourceforge.net/) | [CeCILL2](http://www.cecill.info/licences/Licence_CeCILL_V2-en.html) | C
 
+https://github.com/mosra/magnum
+http://gfxprim.ucw.cz/
+
 
 [List of imaging libraries with lisp bindings](http://www.cliki.net/graphics%20library)
 
@@ -55,6 +58,16 @@ https://github.com/rflynn/imgmin
 
 [Halide, a language for optimized image processing](http://halide-lang.org/) - **Very promising!**
 
+liborc
+
+https://github.com/ispc/ispc
+
+
+## .NET
+
+https://github.com/praeclarum/CrossGraphics
+
+
 ## Image servers
 
 https://github.com/buaazp/zimg ImageMagick-based, async
@@ -66,6 +79,15 @@ https://github.com/3078825/ngx_image_thumb LibGD based
 
 https://github.com/hudora/huImages PIL based
 
+https://github.com/lovell/sharp libvips based for Node
+
+https://github.com/ipconfiger/pyImageServer
+
+https://github.com/sdepold/node-imageable-server
+
+https://github.com/agschwender/pilbox
+
+
 ## Scaling-only resources
 
 https://code.google.com/p/imageresampler/
@@ -73,6 +95,8 @@ https://code.google.com/p/imageresampler/
 [github/jrmuizel/image-scaling: Porting Skia scaling to Emscripten](https://github.com/jrmuizel/image-scaling)
 
 https://code.google.com/p/java-image-scaling/
+
+https://github.com/tmiddelkoop/ImageResize
 
 
 ## Imaging/graphics libraries that don't offer significant image scaling abilities
@@ -88,8 +112,20 @@ http://www.vips.ecs.soton.ac.uk/index.php?title=Speed_and_Memory_Use
 http://randomfoo.net/2013/02/24/performance-comparison-of-image-libraries-revisited
 http://leocharre.com/articles/faster-image-resizing-in-linux/
 
+## Chainable image processing frameworks with GUIs
+
+MathMap - https://github.com/schani/mathmap
+
+LibVips - http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips
 
 
+## iOS specific
+
+https://github.com/BradLarson/GPUImage
+
+## Go-lang
+
+https://github.com/disintegration/imaging
 
 ## Windows APIs
 
@@ -104,3 +140,15 @@ http://leocharre.com/articles/faster-image-resizing-in-linux/
 * http://en.wikipedia.org/wiki/2xSaI#2.C3.97SaI
 * http://www.compuphase.com/graphic/scale.htm
 * 
+
+## Unsorted
+
+https://github.com/psobot/smartcrop
+
+
+
+## Finding more libraries on GitHub
+
+https://github.com/search?l=C%23&p=2&q=stars%3A%3E1+graphics&ref=searchresults&type=Repositories
+
+
