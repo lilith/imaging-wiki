@@ -28,7 +28,7 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [OpenCV](http://opencv.org/) | BSD | C++ 
 | [OpenCV-Ruby](https://github.com/ruby-opencv/ruby-opencv) | BSD | 
 | [DevIL](http://openil.sourceforge.net/) | LGPL
-| [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C | yes | See [writeup](LibGd.md)
+| [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C | yes | See [LibGD.md](LibGd.md)
 | [PIL](http://www.pythonware.com/products/pil/) or [Pillow](https://github.com/python-imaging/Pillow)| [Similar to MIT/BSD](http://www.pythonware.com/products/pil/license.htm)| C | | Tied to Python.  Pillow is a community fork.
 | [Magick++](http://www.imagemagick.org/Magick++/?ImageMagick=euqj79qcd73925ive9hf8sme42) as a part of [ImageMagick](http://www.imagemagick.org/script/index.php) | Apache
 | [FreeImage](http://freeimage.sourceforge.net/) | GPL 2/3 OR [FIPL](http://freeimage.sourceforge.net/freeimage-license.txt) | C
