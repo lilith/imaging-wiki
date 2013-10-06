@@ -56,6 +56,8 @@ http://www.tecgraf.puc-rio.br/im/
 
 http://www.exactcode.com/site/open_source/exactimage/releases/ GPL
 
+https://github.com/cinder/Cinder/blob/ae580c2cb0fc44d0a99b233dbefdf736f7093209/src/cinder/ip/Resize.cpp Cinder Modified BSD
+
 ## Optimization resources
 
 https://github.com/rflynn/imgmin
