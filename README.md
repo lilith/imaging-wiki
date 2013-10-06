@@ -52,6 +52,9 @@ http://gfxprim.ucw.cz/
 
 http://stackoverflow.com/questions/11816571/light-weight-c-image-library
 
+http://www.tecgraf.puc-rio.br/im/
+
+http://www.exactcode.com/site/open_source/exactimage/releases/ GPL
 
 ## Optimization resources
 
