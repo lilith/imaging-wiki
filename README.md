@@ -42,6 +42,7 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [IM](http://www.tecgraf.puc-rio.br/im/) | MIT | C++ 
 | [PIL](https://github.com/python-imaging/Pillow) | BSD-style | C/Python
 | [GMIC](http://gmic.sourceforge.net/) | [CeCILL2](http://www.cecill.info/licences/Licence_CeCILL_V2-en.html) | C
+| [FrameWave](http://framewave.sourceforge.net/) | Apache V2.0 | C | | AMD's alternative to IPP.  Claims to also work decently on Intel
 
 https://github.com/mosra/magnum
 http://gfxprim.ucw.cz/
