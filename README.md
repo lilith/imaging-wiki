@@ -75,6 +75,12 @@ https://github.com/ispc/ispc
 https://github.com/praeclarum/CrossGraphics
 
 
+## Graphics Gems
+
+https://github.com/erich666/GraphicsGems
+https://github.com/erich666/GraphicsGems/blob/master/gemsiii/filter.c
+https://github.com/erich666/GraphicsGems/blob/master/gemsiii/bitmap.c
+
 ## Image servers
 
 https://github.com/buaazp/zimg ImageMagick-based, async
