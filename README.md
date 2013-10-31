@@ -47,6 +47,7 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 https://github.com/mosra/magnum
 http://gfxprim.ucw.cz/
 
+https://github.com/mono/csharpplugin <- Create .NET wrappers from header files (better than SWIG)
 
 
 [List of imaging libraries with lisp bindings](http://www.cliki.net/graphics%20library)
