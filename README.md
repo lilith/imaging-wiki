@@ -43,6 +43,7 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [PIL](https://github.com/python-imaging/Pillow) | BSD-style | C/Python
 | [GMIC](http://gmic.sourceforge.net/) | [CeCILL2](http://www.cecill.info/licences/Licence_CeCILL_V2-en.html) | C
 | [FrameWave](http://framewave.sourceforge.net/) | Apache V2.0 | C | | AMD's alternative to IPP.  Claims to also work decently on Intel
+| [modpagespeed](https://code.google.com/p/modpagespeed/) [kernel/image](https://code.google.com/p/modpagespeed/source/browse#svn%2Ftrunk%2Fsrc%2Fpagespeed%2Fkernel%2Fimage) | Apache 2 | C++ | Offers box/area averaging resizing, Google's page optimization apache module 
 
 https://github.com/mosra/magnum
 http://gfxprim.ucw.cz/
