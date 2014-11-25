@@ -10,3 +10,8 @@ Given the breadth of any instruction set, it's likely easier to provide a string
 
 * [llvm-fs](https://github.com/fsprojects/llvm-fs) exposes an F# api to the LLVM IR
 * [LLVM.NET](https://github.com/aaronrandolph/LLVM.NET)
+
+
+### F# can target the GPU directly:
+
+http://fsharp.org/use/gpu/
