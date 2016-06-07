@@ -20,17 +20,17 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 | [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C | yes | See [LibGD.md](LibGd.md)
 | [Skia](https://code.google.com/p/skia/) [image_operations.cc](http://src.chromium.org/svn/trunk/src/skia/ext/image_operations.cc) | New BSD | C++ | Yes |
 | [Libvips](http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips) | LGPL | C++ | yes
-| [Cairo](http://cairographics.org/) | LGPL 2.1 or MPL 1.1 | Yes |
+| [Cairo](http://cairographics.org/) | LGPL 2.1 or MPL 1.1 | C | Yes |
 | [OpenCV](http://opencv.org/) | BSD | C++ 
 | [OpenCV-Ruby](https://github.com/ruby-opencv/ruby-opencv) | BSD | 
 | [OpenImageIO](http://openimageio.org) [Github](https://github.com/OpenImageIO/oiio) | BSD | C++ | Yes - very active
 | [Pixman](http://pixman.org/) | MIT  | C | Yes 
 | [CImg](http://cimg.sourceforge.net/) | CeCILL-C 
 | [CxImage](http://www.xdp.it/cximage.htm) | zlib | C++
-| [Leptonica](https://code.google.com/p/leptonica/) | Apache | Yes
+| [Leptonica](https://code.google.com/p/leptonica/) | Apache | C | Yes
 | [DevIL](http://openil.sourceforge.net/) | LGPL
 | [PIL](http://www.pythonware.com/products/pil/) or [Pillow](https://github.com/python-imaging/Pillow)| [Similar to MIT/BSD](http://www.pythonware.com/products/pil/license.htm)| C | | Tied to Python.  Pillow is a community fork.
-| [Magick++](http://www.imagemagick.org/Magick++/?ImageMagick=euqj79qcd73925ive9hf8sme42) as a part of [ImageMagick](http://www.imagemagick.org/script/index.php) | Apache
+| [Magick++](http://www.imagemagick.org/Magick++/?ImageMagick=euqj79qcd73925ive9hf8sme42) as a part of [ImageMagick](http://www.imagemagick.org/script/index.php) | Apache | C++
 | [FreeImage](http://freeimage.sourceforge.net/) | GPL 2/3 OR [FIPL](http://freeimage.sourceforge.net/freeimage-license.txt) | C
 | [SDL_Image](http://www.libsdl.org/projects/SDL_image/) | [zlib license](http://en.wikipedia.org/wiki/Zlib_License) 
 | [Adobe Generic Image Library](http://www.boost.org/doc/libs/1_54_0/libs/gil/doc/index.html) | [Boost Software License](http://en.wikipedia.org/wiki/Boost_Software_License) | C++ | No | Entirely C++ templates; part of Boost; no actual imaging algorithms.
