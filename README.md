@@ -17,7 +17,7 @@ We're looking for a cross-platform library suitable for on-demand, server-side i
 
 | Library | License | Language | Promising? | Comments |
 | --- | --- | --- | --- | ---
-| [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C | yes | See [LibGD.md](LibGd.md)
+| [LibGD](http://libgd.bitbucket.org/) | [Similar to MIT](https://bitbucket.org/libgd/gd-libgd/src/a0f58c6abf7b2f2c75ad13577157763e703410ff/COPYING?at=master) | C | yes | See [LibGD.md](LibGD.md)
 | [Skia](https://code.google.com/p/skia/) [image_operations.cc](http://src.chromium.org/svn/trunk/src/skia/ext/image_operations.cc) | New BSD | C++ | Yes |
 | [Libvips](http://www.vips.ecs.soton.ac.uk/index.php?title=Libvips) | LGPL | C++ | yes
 | [Cairo](http://cairographics.org/) | LGPL 2.1 or MPL 1.1 | Yes |
